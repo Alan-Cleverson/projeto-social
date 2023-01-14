@@ -29,9 +29,9 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 623px;
-    width: 311px;
-    background: url('./imagens/frame-iphone.png') no-repeat;
+    height: 535px;
+    width: 320px;
+    background: url('./imagens/frame-iphone1.png') no-repeat;
     padding: 0px;
     margin: 0px;
 }
@@ -58,9 +58,9 @@ section#redes-sociais img:hover {
 
 iframe#tela {
     position: relative;
-    top: 80px;
-    left: 23px;
-    height: 471px;
-    width: 266px;
+    top: 67px;
+    left: 18px;
+    height: 394px;
+    width: 224px;
 
 }
